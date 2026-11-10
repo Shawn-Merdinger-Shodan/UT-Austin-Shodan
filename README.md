@@ -1,1 +1,1 @@
-This repository exposes UT Austin Internet-exposure using the Shodan search engine.
+This repository exposes UT Austin insecure exposure using the Shodan search engine.
